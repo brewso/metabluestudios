@@ -739,7 +739,7 @@ var Feedback = function (_React$Component) {
             'a',
             {
               className: __WEBPACK_IMPORTED_MODULE_2__Feedback_css___default.a.link,
-              href: 'https://gitter.im/kriasoft/react-starter-kit',
+              href: '',
               __source: {
                 fileName: _jsxFileName,
                 lineNumber: 19
@@ -762,7 +762,7 @@ var Feedback = function (_React$Component) {
             'a',
             {
               className: __WEBPACK_IMPORTED_MODULE_2__Feedback_css___default.a.link,
-              href: 'https://github.com/kriasoft/react-starter-kit/issues/new',
+              href: '',
               __source: {
                 fileName: _jsxFileName,
                 lineNumber: 24
@@ -854,7 +854,7 @@ var Footer = function (_React$Component) {
               },
               __self: this
             },
-            '\xA9 MetaBlue Studios'
+            '\xA9MetaBlueStudios'
           ),
           __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
             'span',
